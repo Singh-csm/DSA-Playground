@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+$ npm i axios chart.js react-chartjs-2 protected-rou
+te-react react-router-dom react-hot-toast react-ico
+ns react-redux @reduxjs/toolkit

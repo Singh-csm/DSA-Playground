@@ -1,0 +1,55 @@
+.container{
+
+    height: 100vh;
+    padding: 5rem;
+    box-sizing: border-box;
+}
+
+.vector-graphics{
+    filter: drop-shadow(0 40px 10px rgba(0,0,0.3));
+    animation: vector-animation 1s infinite ease-in
+} 
+
+@keyframes vector-animation {
+    to{
+        transform: rotate(10deg);
+    }
+}
+
+.OurCourses > svg {
+    color: rgb(43, 134, 214);
+    font-size: 3rem;
+    transition: color 0.5s ease-in;
+}
+.OurCourses > svg:hover {
+    color: rgb(255,221,0)
+}
+
+.container2{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container2 video{
+    border: 1px solid rgba(0,0,0.18);
+    box-shadow: 0 0 10px rgba(0,0,0.3);
+    width: 90%;
+    height: 100%;
+    border-radius: 5px;
+    outline: none;
+}
+
+@media screen  and (max-width: 600px){
+    .container2 {
+        height: unset;
+        padding: 8vh;
+    }
+    .container2 video{
+        width: 100%;
+        
+    }
+}
