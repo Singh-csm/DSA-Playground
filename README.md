@@ -1,7 +1,7 @@
 # ![image](https://github.com/Singh-csm/DSA-Playground/assets/118621709/e401f840-4d6f-4d47-bfd8-45cbd16e396e)
 
 ### Amazing and Great Features Light as well as Dark Mode Available
-<img width="128" height="128" alt="landing" src="![image](https://github.com/Singh-csm/DSA-Playground/assets/118621709/4b64be53-f90c-4f54-afb5-18f80ba9db21)">
+<img width="128" height="128" alt="landing" src="https://github.com/Singh-csm/DSA-Playground/assets/118621709/4b64be53-f90c-4f54-afb5-18f80ba9db21">
 
 ### Curated DSA Lectures in High Definition over this React website and much more to come soon... 
 ---
