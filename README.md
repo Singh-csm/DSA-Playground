@@ -1,73 +1,53 @@
-# here is the deployement Link: [https://csm-dsa.netlify.app/]
+# ![image](https://github.com/Singh-csm/DSA-Playground/assets/118621709/e401f840-4d6f-4d47-bfd8-45cbd16e396e)
 
-## Available Scripts
+### Amazing and Great Features Light as well as Dark Mode Available
+<img width="128" height="128" alt="landing" src="![image](https://github.com/Singh-csm/DSA-Playground/assets/118621709/4b64be53-f90c-4f54-afb5-18f80ba9db21)">
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Curated DSA Lectures in High Definition over this React website and much more to come soon... 
+---
 
 
-$ npm i axios chart.js react-chartjs-2 protected-rou
-te-react react-router-dom react-hot-toast react-ico
-ns react-redux @reduxjs/toolkit
+https://github.com/Singh-csm/DSA-Playground/assets/118621709/d1bbd20b-bd79-4158-883b-75644b320855
+
+
+
+---
+- This website offers users the opportunity to delve into the realm of Data Structures and Algorithms (DSA), specifically focusing on Sorting and Searching Techniques. With a user-friendly interface, the website provides a convenient study platform for individuals seeking to enhance their knowledge in these areas.
+
+- One notable feature of the website is its versatile theme options, allowing users to effortlessly switch between Dark and Light modes. This feature not only enhances the visual experience but also provides optimal readability and ease of use.
+
+- To facilitate easy navigation, a side tab is incorporated into the layout. This side tab acts as a convenient drawer, neatly presenting a comprehensive list of available courses for users to explore. By organizing the courses in this manner, I aim to simplify the user journey and ensure a smooth browsing experience.
+
+- In summary, this project aims to create a visually appealing and user-friendly website that caters to individuals interested in studying DSA, with a specific focus on Sorting and Searching Techniques. The incorporation of Dark and Light modes, along with the intuitive side tab and course list drawer, contributes to the overall usability and aesthetic appeal of the platform.
+
+### Visit the deployed site:
+https://csm-dsa.netlify.app/<br>
+
+---
+
+### Tech used:
+ReactJs, ChakraUi
+---
+### Additions and Optimizations will include:
+- This is an ongoing labor of love that I'm really enjoying tweaking, polishing, streamlining, and optimizing as I go
+- I'm also working on smaller features including the ability to automatically open videos full screen in app
+- Adding a section to get-started page discussing recent Doubts and other algoritm baased Lectures
+---
+## Drop a Star ⭐
+
+If you like this project then drop a **Github** star by pressing the **Star** button ⭐
+
+<br>
+
+---
+
+<br>
+
+## Author 👨‍💻
+
+**Singh-csm 💚**
+---
+
+![image](https://github.com/Singh-csm/DSA-Playground/assets/118621709/fd04af4c-4330-413b-b98a-9d022e47a606)
+
+---
