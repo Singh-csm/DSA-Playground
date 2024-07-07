@@ -29,7 +29,7 @@ ReactJs, ChakraUi
 ### Additions and Optimizations will include:
 - This is an ongoing labor of love that I'm really enjoying tweaking, polishing, streamlining, and optimizing as I go
 - I'm also working on smaller features including the ability to automatically open videos full screen in app
-- Adding a section to get-started page discussing recent Doubts and other algoritm baased Lectures
+- Adding a section to get-started page discussing recent Doubts and other algorithm baased Lectures
 ---
 ## Drop a Star ⭐
 
